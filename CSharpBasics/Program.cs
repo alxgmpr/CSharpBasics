@@ -55,7 +55,7 @@ namespace CSharpBasics
 
             if (lost == true && expensive == true)
             {
-                Console.WriteLine("I am really sorry! I will get the manager.")
+                Console.WriteLine("I am really sorry! I will get the manager.");
             } 
             else if (lost == true && expensive == false)
             {

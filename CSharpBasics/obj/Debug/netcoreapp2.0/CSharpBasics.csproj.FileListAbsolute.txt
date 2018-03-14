@@ -1,0 +1,11 @@
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.csprojResolveAssemblyReference.cache
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.AssemblyInfoInputs.cache
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.AssemblyInfo.cs
+/Users/alex/Projects/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.deps.json
+/Users/alex/Projects/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.runtimeconfig.json
+/Users/alex/Projects/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.runtimeconfig.dev.json
+/Users/alex/Projects/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.dll
+/Users/alex/Projects/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.pdb
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.dll
+/Users/alex/Projects/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.pdb
